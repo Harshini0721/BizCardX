@@ -1,4 +1,4 @@
-## BizCardX
+# BizCardX
 
 What is EasyOCR?
 
